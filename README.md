@@ -2,8 +2,6 @@
 
 Daedapad is a macropad with 12 mechanical switches, 9 LEDS, a rotary encoder, and a 128x32 OLED display.  
 
-![Model](image.png) (This is a model of the casing I made in Autodesk Fusion, I have not got the hardware yet so I cannot upload a picture of that)
-
 * Keyboard Maintainer: [Nathan LC](https://github.com/Nauticos)
 
 Features of Daedapad:
@@ -32,8 +30,14 @@ BOM (Bill of Materials):
 * 4 2.5x10mm screws (had these on hand)
 * Solder
 
+![Model](image.png) (This is a model of the casing I made in Autodesk Fusion, I have not got the hardware yet so I cannot upload a picture of that)
+
+
 ![Schematic](image-2.png) Here is a screenshot of my schematic, I made it using KiCad.
 
+
 ![PCB](image-1.png) Here is a screenshot of my PCB design, I made it using KiCad. You can access a demo of this at https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FNauticos%2FDaedapad%2Fblob%2Fmain%2Fhackpad.kicad_pcb.
+
+
 
 This is my first attempt at anything like this, so I am using this as a fun learning experience!
