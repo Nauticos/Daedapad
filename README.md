@@ -1,6 +1,8 @@
 # Daedapad
 
-Daedapad is a macropad with 12 mechanical switches, 9 LEDS, a rotary encoder, and a 128x32 OLED display.  
+Daedapad is a macropad with 12 mechanical switches, 9 LEDS, a rotary encoder, and a 128x32 OLED display.
+
+![Assembled](image.png)
 
 * Keyboard Maintainer: [Nathan LC](https://github.com/Nauticos)
 
