@@ -41,7 +41,7 @@
    }
 
     "processor": "RP2040",
-    "url": "",
+    "url": "https://github.com/Nauticos/Daedapad",
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x1863",
