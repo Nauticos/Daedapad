@@ -1,6 +1,5 @@
-# daedapad
+# Daedapad
 
-![daedapad]
 Daedapad is a macropad with 12 mechanical switches, 9 LEDS, a rotary encoder, and a 128x32 OLED display.  
 
 ![alt text](image.png) (Model of the casing I made in Autodesk Fusion, I have not got the hardware yet so I cannot upload a picture of that)
