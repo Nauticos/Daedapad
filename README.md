@@ -2,9 +2,7 @@
 
 Daedapad is a macropad with 12 mechanical switches, 9 LEDS, a rotary encoder, and a 128x32 OLED display.  
 
-![alt text](image.png) (Model of the casing I made in Autodesk Fusion, I have not got the hardware yet so I cannot upload a picture of that)
-
-This is my first attempt at anything like this, so I am using this as a fun learning experience!
+![Model](image.png) (This is a model of the casing I made in Autodesk Fusion, I have not got the hardware yet so I cannot upload a picture of that)
 
 * Keyboard Maintainer: [Nathan LC](https://github.com/Nauticos)
 
@@ -34,12 +32,8 @@ BOM (Bill of Materials):
 * 4 2.5x10mm screws (had these on hand)
 * Solder
 
-Make example for this keyboard (after setting up your build environment):
+![Schematic](image-2.png) Here is a screenshot of my schematic, I made it using KiCad.
 
-    make daedapad:default
+![PCB](image-1.png) Here is a screenshot of my PCB design, I made it using KiCad. You can access a demo of this at https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FNauticos%2FDaedapad%2Fblob%2Fmain%2Fhackpad.kicad_pcb.
 
-Flashing example for this keyboard:
-
-    make daedapad:default:flash
-
-See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
+This is my first attempt at anything like this, so I am using this as a fun learning experience!
