@@ -4,6 +4,7 @@ Daedapad is a macropad with 12 mechanical switches, 9 LEDS, a rotary encoder, an
 
 * Keyboard Maintainer: [Nathan LC](https://github.com/Nauticos)
 
+
 Features of Daedapad:
 
 * SEEED XIAO RP2040 (microcontroller)
@@ -15,21 +16,22 @@ Features of Daedapad:
 * Sandwich Mounting Style Case
 * QMK Firmware
 
+
 BOM (Bill of Materials):
 
-* SEEED XIAO RP2040 (microcontroller)
-* 12 MX-style switches
-* 12 Blank DSA keycaps
-* 13 1N4148 through-hole diodes
-* 9 SK6812MINI LEDS
-* 1 EC11 rotary encoder
-* 1 128x32 OLED screen
-* Custom Sandwich Mounting Style Case
-* Custom PCB
-* 4 M3×16mm screws
-* 4 M3×5×4mm heatset inserts
-* 4 2.5x10mm screws (had these on hand)
-* Solder
+* 1x SEEED XIAO RP2040 (microcontroller)
+* 12x MX-style switches
+* 12x Blank DSA keycaps
+* 13x 1N4148 through-hole diodes
+* 9x SK6812MINI LEDS
+* 1x EC11 rotary encoder
+* 1x 128x32 OLED screen
+* 1x Custom Sandwich Mounting Style Case
+* 1x Custom PCB
+* 4x M3×16mm screws
+* 4x M3×5×4mm heatset inserts
+* 4x 2.5x10mm screws (had these on hand)
+
 
 ![Model](image.png) (This is a model of the casing I made in Autodesk Fusion, I have not got the hardware yet so I cannot upload a picture of that)
 
