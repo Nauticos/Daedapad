@@ -10,13 +10,13 @@ This is my first attempt at anything like this, so I am using this as a fun lear
 
 Features of Daedapad:
 
-SEEED XIAO RP2040 (microcontroller)
-12 mechanical keyboard switches arranged in a 3x4 pattern
-9 SK6812MINI LEDS
-1 EC11 rotary encoder
-1 128x32 OLED screen
-Sandwich Mounting Style Case
-QMK Firmware
+* SEEED XIAO RP2040 (microcontroller)
+* 12 mechanical keyboard switches arranged in a 3x4 pattern
+* 9 SK6812MINI LEDS
+* 1 EC11 rotary encoder
+* 1 128x32 OLED screen
+* Sandwich Mounting Style Case
+* QMK Firmware
 
 Make example for this keyboard (after setting up your build environment):
 
