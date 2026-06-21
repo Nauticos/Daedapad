@@ -11,6 +11,7 @@ Features of Daedapad:
 * 9 SK6812MINI LEDS
 * 1 EC11 rotary encoder
 * 1 128x32 OLED screen
+* VIA compatability
 * Sandwich Mounting Style Case
 * QMK Firmware
 
