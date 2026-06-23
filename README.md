@@ -34,7 +34,7 @@ BOM (Bill of Materials):
 * 4x M3×5×4mm heatset inserts
 
 
-![Model](Images/image.png) This is a model of the casing I made in Autodesk Fusion, I have not got the hardware yet so I cannot upload a picture of that
+![Model](Images/image.png) This is a model of the casing I made in Autodesk Fusion, I have not got the hardware yet so I cannot upload a picture of that.
 
 
 ![Schematic](Images/image-2.png) Here is a screenshot of my schematic, I made it using KiCad.
