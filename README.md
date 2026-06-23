@@ -32,7 +32,6 @@ BOM (Bill of Materials):
 * 1x Custom PCB
 * 4x M3×16mm screws
 * 4x M3×5×4mm heatset inserts
-* 4x 2.5x10mm screws (had these on hand)
 
 
 ![Model](Images/image.png) This is a model of the casing I made in Autodesk Fusion, I have not got the hardware yet so I cannot upload a picture of that
