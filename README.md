@@ -1,6 +1,6 @@
 # Daedapad
 
-Daedapad is a macropad with 12 mechanical switches, 9 LEDS, a rotary encoder, and a 128x32 OLED display.
+Daedapad is a macropad with 12 mechanical switches, 9 LEDs, a rotary encoder, and a 128x32 OLED display.
 
 ![Assembled](Images/image3.png)
 
@@ -11,7 +11,7 @@ Features of Daedapad:
 
 * SEEED XIAO RP2040 (microcontroller)
 * 12 MX-style switches arranged in a 3x4 pattern
-* 9 SK6812MINI LEDS
+* 9 SK6812MINI LEDs
 * 1 EC11 rotary encoder
 * 1 128x32 OLED screen
 * VIA compatability
@@ -25,7 +25,7 @@ BOM (Bill of Materials):
 * 12x MX-style switches
 * 12x Blank DSA keycaps
 * 13x 1N4148 through-hole diodes
-* 9x SK6812MINI LEDS
+* 9x SK6812MINI LEDs
 * 1x EC11 rotary encoder
 * 1x 128x32 OLED screen
 * 1x Custom Sandwich Mounting Style Case
