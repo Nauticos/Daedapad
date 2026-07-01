@@ -1,13 +1,13 @@
 # Daedapad
 
-Daedapad is a macropad with 12 mechanical switches, 9 LEDs, a rotary encoder, and a 128x32 OLED display.
+**Daedapad** is a macropad with 12 mechanical switches, 9 LEDs, a rotary encoder, and a 128x32 OLED display.
 
 ![Assembled](Images/image3.png)
 
 * Keyboard Maintainer: [Nathan LC](https://github.com/Nauticos)
 
 
-Features of Daedapad:
+**<ins>Features of Daedapad:</ins>**
 
 * SEEED XIAO RP2040 (microcontroller)
 * 12x MX-style switches arranged in a 3x4 pattern
@@ -19,7 +19,7 @@ Features of Daedapad:
 * QMK Firmware
 
 
-BOM (Bill of Materials):
+**<ins>BOM (Bill of Materials):</ins>**
 
 * 1x SEEED XIAO RP2040 (microcontroller)
 * 12x MX-style switches
